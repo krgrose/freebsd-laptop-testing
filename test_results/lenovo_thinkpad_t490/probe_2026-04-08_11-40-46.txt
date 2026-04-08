@@ -76,26 +76,6 @@ Hardware: Lenovo ThinkPad T490
         device     = 'JHL7440 Thunderbolt 3 USB Controller [Titan Ridge DD 2018]'
         class      = serial bus
         subclass   = USB
-    xhci2@pci0:15:0:0:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1b21 device=0x1242 subvendor=0x1a58 subdevice=0x0004
-        vendor     = 'ASMedia Technology Inc.'
-        device     = 'ASM1142 USB 3.1 Host Controller'
-        class      = serial bus
-        subclass   = USB
-    xhci3@pci0:16:0:0:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1b21 device=0x1242 subvendor=0x1a58 subdevice=0x0005
-        vendor     = 'ASMedia Technology Inc.'
-        device     = 'ASM1142 USB 3.1 Host Controller'
-        class      = serial bus
-        subclass   = USB
-    xhci4@pci0:17:0:0:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1b21 device=0x1242 subvendor=0x1a58 subdevice=0x0006
-        vendor     = 'ASMedia Technology Inc.'
-        device     = 'ASM1142 USB 3.1 Host Controller'
-        class      = serial bus
-        subclass   = USB
-    xhci5@pci0:58:0:0:	class=0x0c0330 rev=0x01 hdr=0x00 vendor=0x8086 device=0x15c1 subvendor=0x17aa subdevice=0x2279
-        vendor     = 'Intel Corporation'
-        device     = 'JHL6240 Thunderbolt 3 USB 3.1 Controller (Low Power) [Alpine Ridge LP 2016]'
-        class      = serial bus
-        subclass   = USB
 
   Category Total Score: 2/2
 
